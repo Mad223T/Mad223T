@@ -22,7 +22,9 @@
 ---
 
 ## 📈 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mad223T&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mad223T&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ffff&icon_color=00ffff&text_color=ffffff" />
+</p>
 
 ---
 
