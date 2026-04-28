@@ -17,6 +17,8 @@
 ## 🚀 Projets (Personnel/Éducatif)
 🔹 [Site Elden Ring](https://mad223t.github.io/elden-ring-site/) – Site web en HTML
 
+🔹 Pierre-Feuille-Ciseaux(Janken) - Projet réalisé en Python
+
 🔹 D'autres projets arrivent bientôt...
 
 ---
