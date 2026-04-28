@@ -14,8 +14,8 @@
 
 ---
 
-## 🚀 Projets
-🔹 [Site Elden Ring](https://mad223t.github.io/elden-ring-site/) – Site web en HTML  
+## 🚀 Projets (Personnel/Éducatif)
+🔹 [Site Elden Ring](https://mad223t.github.io/elden-ring-site/) – Site web en HTML
 🔹 D'autres projets arrivent bientôt...
 
 ---
