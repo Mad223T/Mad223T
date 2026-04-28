@@ -30,3 +30,7 @@
 > Attiré par la cybersécurité, je cherche à comprendre ce qui se cache derrière chaque système.
 > Explorer, tester, analyser… pour mieux protéger.
 > Comprendre comment un système peut tomber, pour apprendre à le rendre plus fort.
+
+## 📋 Portfolio
+<img width="350" height="349" alt="image" src="https://github.com/user-attachments/assets/03bd0f91-6ec1-4447-bf9c-feafa8f92e17" />
+
