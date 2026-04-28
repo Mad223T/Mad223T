@@ -1,4 +1,4 @@
-# 👋 Hello, moi c’est Toure Mamadou echanté🤝
+# 👋 Hello, moi c’est Toure Mamadou enchanté🤝
 
 💻 Étudiant en informatique  
 🚀 Passionné par le développement web et les systèmes  
