@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Mad223T
+# 👋 Hello, moi c’est Toure Mamadou echanté🤝
 
 💻 Étudiant en informatique  
 🚀 Passionné par le développement web et les systèmes  
@@ -7,6 +7,7 @@
 ---
 
 ## 🧠 Compétences
+- Python / Algorithme / Visual StudioCode 
 - HTML / CSS / JS
 - Linux / Apache
 - Git / GitHub
@@ -25,4 +26,6 @@
 ---
 
 ## 🔥 Motivation
-> “Chaque ligne de code me rapproche de mon futur.”
+> Attiré par la cybersécurité, je cherche à comprendre ce qui se cache derrière chaque système.
+> Explorer, tester, analyser… pour mieux protéger.
+> Comprendre comment un système peut tomber, pour apprendre à le rendre plus fort.
